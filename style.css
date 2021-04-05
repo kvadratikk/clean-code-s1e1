@@ -11,6 +11,8 @@
   margin: 0 auto;
   display: block;
   text-align: right;
+  height: 269px;
+  padding-top: 8px;
 }
 .header__img {
   width: 100%;
@@ -30,6 +32,8 @@
   display: block;
   width: 500px;
   margin: 0 auto 0;
+  height: 451px;
+  margin-top: 15px;
 }
 .task, 
 .label-task,
@@ -110,6 +114,9 @@ h3,
 }
 
 /* Task list */
+.todo {
+  margin-top: 15px;
+}
 li {
   overflow: hidden;
   padding: 20px 0;
